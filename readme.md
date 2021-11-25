@@ -1,0 +1,1 @@
+en este ejercicio vemos como utilizando solo el js es posible que el usuario vea el contenido
